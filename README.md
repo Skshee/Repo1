@@ -2,4 +2,4 @@
 
 This is my first Github repository.
 
-Author - Suvan Shee
+Author - Suvan (Shee)
